@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TpAndroid_v2.1</string>
+    <string name="title_Ejercicio1">Ejercicio1</string>
+    <string name="title_Ejercicio2">Ejercicio2</string>
+    <string name="title_Ejercicio3">Ejercicio3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
